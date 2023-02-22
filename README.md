@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![download](https://user-images.githubusercontent.com/79688900/220566545-35fa0079-7782-439e-acc6-1d5230fcf35c.jpeg)
+
 <!--
 **HieuBui419/HieuBui419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
